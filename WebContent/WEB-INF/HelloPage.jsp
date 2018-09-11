@@ -7,6 +7,7 @@
 <title>Insert title here--HelloPage</title>
 </head>
 <body>
+    <p>This is a change we need to pull</p>
 <h2>${welcomeMessage}</h2>
 </body>
 </html>
