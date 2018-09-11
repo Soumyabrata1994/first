@@ -16,7 +16,11 @@ import org.springframework.web.servlet.mvc.AbstractController;
  */
 
 
-/* this comment is to test whether we can create a new branch using github.*/
+/* this comment is to test whether we can create a new branch using github.
+
+this is to test whether the new branch is able to merge the requests.
+
+*/
 
 //@WebServlet("/HelloController")
 @Controller
